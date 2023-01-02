@@ -67,4 +67,4 @@ Distribuído sob a licença MIT. Veja [LICENSE](LICENSE) para mais informações
 
 ---
 
-Feito com ❤️ por Deigo Natalo.
+<p align="center">Feito com ❤️ por Deigo Natalo.</p>
