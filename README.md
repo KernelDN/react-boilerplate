@@ -9,48 +9,47 @@
 </p>
 
 <h1 align="center">
-    React Boilerplate
+    ToDo
 </h1>
-<p align="center">Meu boilerplate pessoal para criação de aplicações React.</p>
+<p align="center">Uma aplicação de lista de tarefas</p>
 
 <p align="center">
  <a href="#-sobre-o-projeto">Sobre o Projeto</a> •
  <a href="#-tecnologias">Tecnologias</a> •
- <a href="#-configurações-necessárias">Configurações necessárias</a> •
+ <a href="#-configurando-o-ambiente">Configurando o Ambiente</a> •
  <a href="#-licença">Licença</a>
 </p>
 
 ## 📌 Sobre o projeto
 
-Exemplo de descrição.
+Este projeto foi desenvolvido durante o evento Ignite Lab Node disponibilizado pela Rocketseat e consiste basicamente em um microserviço de notificações. Foi feito utilizando o framework Nest, aplicando conceitos como a inversão e injeção de dependências. Os testes foram escritos utilizando Jest e a camada de persistência de dados foi desenvolvida com a ajuda do Prisma ORM.
 
 ---
 
 ## 💻 Tecnologias
 
-- [ReactJS](https://reactjs.org/)
+- [React](https://reactjs.org/)
 - [Typescript](https://www.typescriptlang.org/)
-- [Vite](https://vitejs.dev/)
 
 ---
 
-## 🚧 Configurando o ambiente de desenvolvimento
+## 🌱 Configurando o ambiente
 
-### **Requisitos**
+### 🚧 **Requisitos**
 
 > Será necessário instalar os items abaixo para clonar e executar o projeto corretamente!
 
-- [Git](https://git-scm.com)
-- [Node](https://nodejs.org)
+- [Git](https://git-scm.com/)
+- [Node](https://nodejs.org/)
 
-### **Clonando e executando a aplicação**
+### ⏩ **Clonando e executando a aplicação**
 
 ```bash
 # Primeiro clone o repositório utilizando git:
-$ git clone https://github.com/KernelDN/react-boilerplate.git
+$ git clone https://github.com/diegonatalo/todo.git
 
 # Depois acesse a pasta do projeto:
-$ cd react-boilerplate
+$ cd todo
 
 # Em seguida instale as dependências:
 $ npm i
@@ -67,4 +66,4 @@ Distribuído sob a licença MIT. Veja [LICENSE](LICENSE) para mais informações
 
 ---
 
-Feito com ❤️ por Deigo Natalo!
+Feito com ❤️ por Deigo Natalo.
