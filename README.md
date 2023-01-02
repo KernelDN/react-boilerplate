@@ -9,9 +9,9 @@
 </p>
 
 <h1 align="center">
-    ToDo
+    React Boilerplate
 </h1>
-<p align="center">Uma aplicação de lista de tarefas</p>
+<p align="center">Meu boilerplate pessoal para a criação de aplicações React + Typescript com Vite</p>
 
 <p align="center">
  <a href="#-sobre-o-projeto">Sobre o Projeto</a> •
@@ -22,7 +22,7 @@
 
 ## 📌 Sobre o projeto
 
-Este projeto foi desenvolvido durante o evento Ignite Lab Node disponibilizado pela Rocketseat e consiste basicamente em um microserviço de notificações. Foi feito utilizando o framework Nest, aplicando conceitos como a inversão e injeção de dependências. Os testes foram escritos utilizando Jest e a camada de persistência de dados foi desenvolvida com a ajuda do Prisma ORM.
+Descrição do projeto.
 
 ---
 
@@ -30,6 +30,7 @@ Este projeto foi desenvolvido durante o evento Ignite Lab Node disponibilizado p
 
 - [React](https://reactjs.org/)
 - [Typescript](https://www.typescriptlang.org/)
+- [Vite](https://vitejs.dev/)
 
 ---
 
@@ -46,10 +47,10 @@ Este projeto foi desenvolvido durante o evento Ignite Lab Node disponibilizado p
 
 ```bash
 # Primeiro clone o repositório utilizando git:
-$ git clone https://github.com/diegonatalo/todo.git
+$ git clone https://github.com/diegonatalo/exemplo.git
 
 # Depois acesse a pasta do projeto:
-$ cd todo
+$ cd exemplo
 
 # Em seguida instale as dependências:
 $ npm i
