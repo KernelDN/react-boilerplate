@@ -11,11 +11,7 @@
 <h1 align="center">
     React Boilerplate
 </h1>
-<<<<<<< HEAD
-<p align="center">Meu boilerplate pessoal para criar aplicações React + Typescript com Vite</p>
-=======
 <p align="center">Meu boilerplate pessoal para a criação de aplicações React + Typescript com Vite</p>
->>>>>>> 6e17d1e39fe3bf9c4712747b2ec98c751172d2b3
 
 <p align="center">
  <a href="#-sobre-o-projeto">Sobre o Projeto</a> •
@@ -26,11 +22,7 @@
 
 ## 📌 Sobre o projeto
 
-<<<<<<< HEAD
-Exemplo de descrição.
-=======
 Descrição do projeto.
->>>>>>> 6e17d1e39fe3bf9c4712747b2ec98c751172d2b3
 
 ---
 
